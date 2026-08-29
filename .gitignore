@@ -1,0 +1,19 @@
+# compiled output
+*.class
+out/
+build/
+
+# archives
+*.zip
+*.tar.gz
+
+# editors
+.idea/
+.vscode/
+*.iml
+.settings/
+.classpath
+.project
+
+# macOS
+.DS_Store
