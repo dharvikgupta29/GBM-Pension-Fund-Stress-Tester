@@ -1,0 +1,22 @@
+Simulations Run        : 200,000  (seed 42)
+Insolvency Probability : 11.62%
+
+Distribution of Final Value:
+   1st percentile : $389,831,207
+   5th percentile : $556,814,343
+  Mean worst 5%   : $455,473,362
+  Median          : $1,189,577,926
+  Average         : $1,232,578,537
+  95th percentile : $2,070,204,691
+
+Posterior Shock Probabilities (monthly):
+  Recession : 0.001991
+  War       : 0.000506
+  Pandemic  : 0.000500
+  Black Swan: 0.000296
+
+Total Shock Events Across All Runs:
+  Recession : 47,773
+  War       : 12,144
+  Pandemic  : 11,995
+  Black Swan: 7,102
