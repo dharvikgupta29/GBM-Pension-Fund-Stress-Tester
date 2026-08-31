@@ -19,7 +19,7 @@ javac GBMBayesianMonteCarloStressTest.java
 java GBMBayesianMonteCarloStressTest
 ```
 
-Parameters sit in labelled blocks at the top of `main`. Baseline is a $1B fund
+Parameters sit in labeled blocks at the top of `main`. Baseline is a $1B fund
 paying $3M a month for ten years, with the insolvency floor at $700M.
 
 The RNG is seeded (`SEED = 42`), so the numbers below reproduce exactly. Keep the
